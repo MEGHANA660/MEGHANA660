@@ -1,88 +1,111 @@
-# 👋 Hi, I'm Meghana K  
+<!-- ====================== HEADER ====================== -->
+<h1 align="center">Hi 👋, I'm Meghana K</h1>
 
-🎯 Engineering Student | AI/ML Enthusiast | Full Stack Learner  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+ML+Engineer;Full+Stack+Developer;Hackathon+Builder;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MEGHANA660&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 ---
 
+<!-- ====================== ABOUT ====================== -->
 ## 🚀 About Me  
-- 🌱 Currently learning AI, Machine Learning & Full Stack Development  
-- 💡 Passionate about building real-world impactful projects  
-- 🏆 Preparing for hackathons & coding competitions  
-- 📍 Based in Bangalore, India  
+
+ 
+- 💡 Building **real-world impactful projects**  
+- 🏆 Actively participating in **hackathons & coding contests**  
+- ⚡ Exploring new technologies every day  
+- 📍 Bangalore, India  
 
 ---
 
+<!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack  
 
-### 👩‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 👩‍💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
 
----
-
-### 🌐 Web & App Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
+### 🌐 Web Development  
+<p>
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,nodejs,django,fastapi" />
+</p>
 
 ### ☁️ Cloud & Tools  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,git,github" />
+</p>
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
 ### 🤖 AI / ML  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+</p>
 
 ---
 
+<!-- ====================== STATS ====================== -->
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MEGHANA660&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEGHANA660&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=MEGHANA660&theme=tokyonight" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MEGHANA660&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHANA660&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=MEGHANA660&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHANA660&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
+<!-- ====================== TROPHIES ====================== -->
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MEGHANA660&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<!-- ====================== GRAPH ====================== -->
 ## 📈 Contribution Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MEGHANA660&theme=tokyo-night)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEGHANA660&theme=tokyo-night"/>
+</p>
 
 ---
 
+<!-- ====================== CONNECT ====================== -->
 ## 🔗 Connect With Me  
-- 📧 Email: meghameghana881@gmail.com  
+
+<p align="center">
+  <a href="mailto:meghameghana881@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Fun Fact  
-💡 I love exploring new technologies and building cool projects 🚀  
+<!-- ====================== FOOTER ====================== -->
+<p align="center">
+  💡 "Consistency beats talent when talent doesn’t work hard."
+</p>
 
----
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>
